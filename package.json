@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/dlion11/ff-manager/issues"
   },
-  "homepage": "https://github.com/dlion11/ff-manager#readme"
+  "homepage": "https://github.com/dlion11/ff-manager#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-inject": "^4.1.0",
+    "stream-series": "^0.1.1"
+  }
 }

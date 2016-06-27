@@ -1,0 +1,27 @@
+{
+  "name": "ff-manager",
+  "homepage": "https://github.com/dlion11/ff-manager",
+  "authors": [
+    "dlion11 <draglion11@gmail.com>"
+  ],
+  "description": "FanFiction offline story manager",
+  "main": "index.html",
+  "keywords": [
+    "fanfiction",
+    "story",
+    "manager"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.0.0",
+    "angular": "^1.5.7",
+    "angular-route": "^1.5.7"
+  }
+}
