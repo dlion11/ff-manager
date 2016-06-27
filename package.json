@@ -1,0 +1,24 @@
+{
+  "name": "ff-manager",
+  "version": "0.0.1",
+  "description": "FanFiction offline story manager",
+  "main": "app/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlion11/ff-manager.git"
+  },
+  "keywords": [
+    "fanfiction",
+    "story",
+    "manager"
+  ],
+  "author": "dlion11 <draglion11@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlion11/ff-manager/issues"
+  },
+  "homepage": "https://github.com/dlion11/ff-manager#readme"
+}
