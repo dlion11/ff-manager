@@ -3,6 +3,11 @@
   "version": "0.0.1",
   "description": "FanFiction offline story manager",
   "main": "app/index.html",
+  "window": {
+    "resizable": true,
+    "min_width": 800,
+    "min_height": 500
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
